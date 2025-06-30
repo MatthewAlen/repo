@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pizza
 Sushi
 Tacos
-=======
 Inception
 Interstellar
 The Matrix
->>>>>>> movies
